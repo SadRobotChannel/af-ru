@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Лучшие Криптовалютные Краны
 comments: false
 img: http://ru.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
