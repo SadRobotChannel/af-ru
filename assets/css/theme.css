@@ -432,7 +432,7 @@ blockquote {
     box-shadow:none;
 }
 .article-post img, .article-post iframe {
-    box-shadow:0 6px 10px 0 rgba(0,0,0,0.1);
+    box-shadow:none;
 }
 .article-post p img, .article-post p iframe {
     margin-bottom:0.5rem;
