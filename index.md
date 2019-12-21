@@ -2,23 +2,23 @@
 layout: page
 title: Лучшие Криптовалютные Краны
 comments: false
-img: http://ru.all-faucets.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: http://ru.all-faucets.com/index.html
+img: https://ru.all-faucets.com/assets/images/all-faucets.com-thumb.png
+alt: Краны криптовалюты - это системы вознаграждений в виде веб-сайта или приложения, которые раздают бесплатные монеты.
+desc: Если вы новичок в крипто-кранах, этот сайт для вас. Узнайте, как максимизировать стоимость вашего времени и усилий, одновременно требуя бесплатные сайты с биткойнами.
+URL: https://ru.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+Если вы новичок в крипто-кранах, этот сайт для вас. Мы перечисляем биткойны и другие цифровые валютные краны, которые проверены на предмет их ценности и репутации Обычно люди начинают пробовать краны из любопытства или в качестве хобби, но с некоторым знанием и последовательностью такое хобби может предложить хороший доход. Наша цель - поделиться своими знаниями и дать вам возможность зарабатывать цифровую валюту так, чтобы она отвечала вашим интересам и стилю жизни.
 
-Continue reading: <a href="http://ru.all-faucets.com/getting-started-with-bitcoin-faucets.html">Getting Started with Bitcoin Faucets</a>.
+Продолжите на <a href="https://ru.all-faucets.com/daily/2019/12/12/index.html">начало работы с биткойновыми кранами</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### Любимые Краны 2019 года
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+С тех пор, как мы впервые опубликовали этот сайт, многое изменилось. Во-первых, цена Биткойна выросла с примерно 3500 долларов США до более чем 10000 долларов США, иногда доходя до 12 или 13 тысяч долларов США. Такое увеличение стоимости привело к тому, что многие веб-сайты сборщиков перестали работать, поскольку они не могли позволить себе отдать обещанные вознаграждения. Многие перешли в автономный режим, не распределяя суммы в ваших кошельках, тем самым просто крадя ваши деньги. Это риски, о которых вы должны знать и принимать при инвестировании своего времени или денег в услуги, связанные с криптовалютой.
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+Тем не менее, следующие краны остаются лояльными к своим членам и продолжают распределять бесплатные сатоши:
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
@@ -32,24 +32,14 @@ Still, the following faucets sites remain loyal to their members and continue di
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
+Какой у вас опыт работы с крипто-кранами? Вы пробовали любой из них? У вас есть любимый сайт?
 
-<div id="disqus_thread"></div>
-<script>
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://all-faucets.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+---
+#### Присоединяйтесь к нашему новому Crypto-сообществу
+
+Этот сайт, all-faucets.com, ориентирован именно на криптовалютные краны. И хотя доменное имя подразумевает, что мы перечислим «все» сборщики, в действительности есть только несколько хороших сборщиков, которые стоят вашего времени и усилий. Однако есть много других способов заработать криптовалюту - майнинг, ставки, IPO и капли, криптовалюты и так далее. Возможностей много, но вам нужна качественная информация, чтобы использовать эти возможности в своих интересах.
+
+Именно по этой причине я создал новый сайт сообщества, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Мир криптографии выходит далеко за рамки криптовалютов! Присоединяйтесь ко мне, чтобы создать интеллектуальное крипто-сообщество на <i.StaleBlock.com</i>.
