@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-right-sidebar
 title: What is a Bitcoin?
 comments: true
 img: https://ru.all-faucets.com/assets/images/all-faucets.com-thumb.png
