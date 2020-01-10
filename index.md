@@ -11,35 +11,33 @@ URL: https://ru.all-faucets.com/index.html
 
 Если вы новичок в крипто-кранах, этот сайт для вас. Мы перечисляем биткойны и другие цифровые валютные краны, которые проверены на предмет их ценности и репутации Обычно люди начинают пробовать краны из любопытства или в качестве хобби, но с некоторым знанием и последовательностью такое хобби может предложить хороший доход. Наша цель - поделиться своими знаниями и дать вам возможность зарабатывать цифровую валюту так, чтобы она отвечала вашим интересам и стилю жизни.
 
-Продолжите на <a href="https://ru.all-faucets.com/daily/2019/12/12/index.html">начало работы с биткойновыми кранами</a>.
+Продолжите на <a href="/daily/2019/12/12/index.html">начало работы с биткойновыми кранами</a>.
 
 ---
-#### Любимые Краны 2019 года
+#### 2019 в итоге
 
-С тех пор, как мы впервые опубликовали этот сайт, многое изменилось. Во-первых, цена Биткойна выросла с примерно 3500 долларов США до более чем 10000 долларов США, иногда доходя до 12 или 13 тысяч долларов США. Такое увеличение стоимости привело к тому, что многие веб-сайты сборщиков перестали работать, поскольку они не могли позволить себе отдать обещанные вознаграждения. Многие перешли в автономный режим, не распределяя суммы в ваших кошельках, тем самым просто крадя ваши деньги. Это риски, о которых вы должны знать и принимать при инвестировании своего времени или денег в услуги, связанные с криптовалютой.
+Year 2019 had a devastating effect on cryptocurrency faucets. Hundreds of faucets sites appeared on the Internet, as the year started with the bitcoin price in a range of 3,500 USD. Then, with a BTC price spiking to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars, most of the sites closed down or made their interfaces unusable (overloading with clicks and ads).
 
-Тем не менее, следующие краны остаются лояльными к своим членам и продолжают распределять бесплатные сатоши:
+An increase in crypto value that we saw in the mid of 2019 value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many went offline without distributing the amounts in your wallets, thus simply stealing your earned money. These are the risks that you need to be aware of and accept when investing your time in faucet related services.
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### Крипто-краны, которые все еще работают в 2020 году
+
+Мы рекомендуем следующие 11 сборщиков сайтов. Они остаются верными своим членам и продолжают раздавать бесплатные монеты:
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Paid 2 Surf сайт
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - Почасовой кран с интересом
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - Требуйте каждые 30 минут, в основном Altcoins, делая ставки
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - Почасовой кран с интересом
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - Игра Крипто кран
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - Игра Крипто кран
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - Игра Крипто кран
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - Автокран
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - Почасовой кран с интересом
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - Почасовой кран с интересом
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - Игра Крипто кран
 
 Какой у вас опыт работы с крипто-кранами? Вы пробовали любой из них? У вас есть любимый сайт?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### Присоединяйтесь к нашему новому Crypto-сообществу
-
-Этот сайт, all-faucets.com, ориентирован именно на криптовалютные краны. И хотя доменное имя подразумевает, что мы перечислим «все» сборщики, в действительности есть только несколько хороших сборщиков, которые стоят вашего времени и усилий. Однако есть много других способов заработать криптовалюту - майнинг, ставки, IPO и капли, криптовалюты и так далее. Возможностей много, но вам нужна качественная информация, чтобы использовать эти возможности в своих интересах.
-
-Именно по этой причине я создал новый сайт сообщества, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Мир криптографии выходит далеко за рамки криптовалютов! Присоединяйтесь ко мне, чтобы создать интеллектуальное крипто-сообщество на <i.StaleBlock.com</i>.
